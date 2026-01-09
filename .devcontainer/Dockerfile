@@ -16,6 +16,7 @@ RUN apt-get update \
     build-essential \
     neovim \
     btop \
+    tmux \
     unzip \
     openssh-client \
     ffmpeg \
