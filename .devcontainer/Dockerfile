@@ -13,6 +13,7 @@ RUN apt-get update \
     curl \
     wget \
     ca-certificates \
+    cmake \
     build-essential \
     neovim \
     btop \

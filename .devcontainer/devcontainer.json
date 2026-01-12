@@ -4,7 +4,7 @@
     // For more information on the Dockerfile used to create the container, see the Dockerfile
     // This functionally passes arguments to `docker run` and `docker build` commands.
     // It also includes settings for Visual Studio Code, such as extensions to install and settings to apply.
-    "name": "AI/ML Dev - ${localWorkspaceFolderBasename}${localEnv:HOSTNAME}",
+    "name": "PyTorch - ${localWorkspaceFolderBasename}",
 
     // Tensorflow image example:
     // (this is mutually exclusive with dockerFile attribute below)
